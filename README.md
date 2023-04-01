@@ -24,13 +24,13 @@
 </p>
 
 <!--
+Skillicons soon-to-be-added icons:
+prisma,tailwindcss,astro,sentry,nextjs,planetscale,postgress,postman,rabbitmq,redis,wasm
+
 Notable stats:
 - https://git.io/streak-stats
 - https://www.githubtrends.io/wrapped/tifandotme
 - https://github.com/gautamkrishnar/blog-post-workflow
-
-Skillicons soon-to-be-added icons:
-prisma,tailwindcss,astro,sentry
 
 TODO: Add WakaTime stats once I have decent amount of data
 -->
