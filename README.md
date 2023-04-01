@@ -20,9 +20,8 @@
 </p>
 
 <p align="right">
-  <a href="#">
     <img src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square" />
-  </a>
+
 </p>
 
 
