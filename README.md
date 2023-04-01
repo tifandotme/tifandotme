@@ -17,14 +17,11 @@
   </a>
 </p>
 
-## Currently working on
-<p align="center">
-  <a href="https://github.com/tifandotme/puri">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tifandotme&repo=puri&hide_border=true&theme=github_dark&disable_animations=true" />
+<p align="right">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square" />
   </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=tifandotme&style=flat-square)
 
 
 
