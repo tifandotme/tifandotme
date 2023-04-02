@@ -9,9 +9,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="
-        https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash
-      "
+      srcset="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
       media="(prefers-color-scheme: dark)"
     />
     <img
@@ -25,9 +23,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="
-        https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true
-      "
+      srcset="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true"
       media="(prefers-color-scheme: dark)"
     />
     <img
@@ -38,9 +34,7 @@
 
   <picture>
     <source
-      srcset="
-        https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true
-      "
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <img
