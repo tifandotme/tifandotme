@@ -9,7 +9,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
+      srcset="https://skillicons.dev/icons?theme=dark&i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
       media="(prefers-color-scheme: dark)"
     />
     <img
