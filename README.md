@@ -8,6 +8,7 @@
 <p align="center">
   <picture>
     <img
+      alt="Tech stack"
       src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
     />
   </picture>
@@ -40,8 +41,9 @@
 
 <h2>Projects</h2>
 
-- **[Puri](https://github.com/tifandotme/puri)** - An Order Management System for [PT. WPU](https://ptwpu.com). (currently working on this)
+- **[Puri](https://github.com/tifandotme/puri)** - An order management system for a building materials distribution company based in Semarang. (Currently working on this)
 
+<br>
 <p align="right">
   <picture>
     <img
