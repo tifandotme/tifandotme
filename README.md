@@ -1,6 +1,6 @@
-<h1 align="center">Halo 👋, I'm <a href="https://tifan.me/">Tifan</a></h1>
+<h1 align="center">Halo 👋, I'm <a href="https://tifan.me/">Tifan</h1>
 
-<p align="center">Full-stack developer proficient in React and TypeScript with a passion for free and open-source software</p>
+<p align="center">A full-stack developer proficient in React and TypeScript with a passion for free and open-source software</p>
 
 ## I work with this tech
 <p align="center">
