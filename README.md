@@ -41,7 +41,7 @@
 
 <h2>Projects</h2>
 
-- **[Puri](https://github.com/tifandotme/puri)** - An order management system for a building materials distribution company based in Semarang. (Currently working on this)
+- **[Puri](https://github.com/tifandotme/puri)** - An order management system for a building materials distribution company based in Semarang. (WIP)
 
 <br>
 <p align="right">
