@@ -1,43 +1,60 @@
-<h1 align="center">Halo 👋, I'm <a href="https://tifan.me/">Tifan</h1>
+<h1 align="center">Halo 👋, I'm <a href="https://tifan.me/">Tifan</a></h1>
 
-<p align="center">A full-stack developer proficient in React and TypeScript with a passion for free and open-source software</p>
+<p align="center">
+  A full-stack developer proficient in React and TypeScript with a passion for
+  free and open-source software
+</p>
 
-## I work with this tech
+<h2>I work with this tech</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash" />
+    <img
+      src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
+    />
   </a>
 </p>
 
-## My stats
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true" />
-  </a>
-</p>
-
+<h2>My stats</h2>
 <p align="center">
   <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_light&disable_animations=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="" />
-</picture>
+    <source
+      srcset="
+        https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true
+      "
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      alt="Stats"
+      src="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_light&disable_animations=true"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="
+        https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true
+      "
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      alt="Most used languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_light&disable_animations=true&hide_border=true"
+    />
+  </picture>
 </p>
 
 <p align="right">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square" />
+    <img
+      alt="Profile views badge"
+      src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square"
+    />
   </a>
 </p>
 
 <!--
+https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
+
 Skillicons soon-to-be-added icons:
 prisma,tailwindcss,astro,sentry,nextjs,planetscale,postgress,postman,rabbitmq,redis,wasm
 
