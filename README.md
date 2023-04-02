@@ -1,20 +1,14 @@
 <h1 align="center">Halo 👋, I'm <a href="https://tifan.me/">Tifan</a></h1>
 
 <p align="center">
-  Full-stack developer proficient in React and TypeScript with a passion for
-  free and open-source software
+  Full-stack developer proficient in React and TypeScript with a passion for free and open-source software
 </p>
 
 <h2>I work with this tech</h2>
 <p align="center">
   <picture>
-    <source
-      srcset="https://skillicons.dev/icons?theme=dark&i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
-      media="(prefers-color-scheme: dark)"
-    />
     <img
-      alt="Tech stack"
-      src="https://skillicons.dev/icons?theme=light&i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
+      src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
     />
   </picture>
 </p>
@@ -46,7 +40,7 @@
 
 <h2>Projects</h2>
 
-- **[Puri](https://github.com/tifandotme/puri)** - Order Management System (currently working on this)
+- **[Puri](https://github.com/tifandotme/puri)** - An Order Management System for [PT. WPU](https://ptwpu.com). (currently working on this)
 
 <p align="right">
   <picture>
