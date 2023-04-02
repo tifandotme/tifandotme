@@ -50,6 +50,10 @@
   </picture>
 </p>
 
+<h2>Projects</h2>
+
+- **[Puri](https://github.com/tifandotme/puri)** - Order Management System (currently working on this)
+
 <p align="right">
   <picture>
     <img
