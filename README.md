@@ -5,21 +5,23 @@
 ## I work with this tech
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash">
   </a>
 </p>
 
 ## My stats
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true" />
-  </a>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true">
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true">
+  </picture>
 </p>
 
 <p align="right">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square">
   </a>
 </p>
 
