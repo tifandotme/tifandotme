@@ -53,7 +53,30 @@
   </picture>
 </p>
 
+
+
 <!--
+<details>
+  <summary>My GPG public key</summary>
+  
+  ```
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+  mDMEZCxEZhYJKwYBBAHaRw8BAQdAllwYRWTdeJ+XeIlDVX3091ddROl45//hTYrp
+  wzjyZty0F1RpZmFuIDx0aWZhbkBwcm90b24ubWU+iJMEExYKADsWIQSBdrle4w53
+  hGWeb95ZkJIMsOl/HgUCZCxEZgIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIX
+  gAAKCRBZkJIMsOl/HsInAQCToy99q4KzzZE9FWikL6m1RO6tRoCUjJhkZM5+QYqs
+  7wD/YEDMgyp+mCrESqaTYGZ4casEXAvrX0Mmjrptpo5z7wq4OARkLERmEgorBgEE
+  AZdVAQUBAQdAgpFLbsCekZ13+dGRR+gOwkt6YjsDq3KOE/RYtaVo4XoDAQgHiHgE
+  GBYKACAWIQSBdrle4w53hGWeb95ZkJIMsOl/HgUCZCxEZgIbDAAKCRBZkJIMsOl/
+  Hs45AQDTW8c/YSifLigUlYUQTPUyiC4ZxReGvvYOyGvPEC5XggD/ZuCAw3J2SiFX
+  F54URvoJyaoIg4skAf7bcU29i6BSeg4=
+  =4fq2
+  -----END PGP PUBLIC KEY BLOCK-----
+  ```
+</details>
+
+
 https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
 
 Skillicons soon-to-be-added icons:
