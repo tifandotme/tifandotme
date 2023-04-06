@@ -7,6 +7,10 @@
 <h2>I work with this tech</h2>
 <p align="center">
   <picture>
+    <!--
+    shortened from: https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash&theme=dark
+    because it seems `srcset` stopped reading the url past a comma, so it would only read typescript and ignore the rest 
+    -->
     <source
       srcset="https://shorturl.at/admKY"
       media="(prefers-color-scheme: dark)"
