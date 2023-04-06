@@ -7,9 +7,13 @@
 <h2>I work with this tech</h2>
 <p align="center">
   <picture>
+    <source
+      srcset="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
     <img
       alt="Tech stack"
-      src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash"
+      src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash&theme=light"
     />
   </picture>
 </p>
