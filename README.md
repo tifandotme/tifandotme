@@ -8,7 +8,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash&theme=dark"
+      srcset="https://shorturl.at/admKY"
       media="(prefers-color-scheme: dark)"
     />
     <img
