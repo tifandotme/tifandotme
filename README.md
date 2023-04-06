@@ -9,7 +9,7 @@
   <picture>
     <!--
     shortened from: https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash&theme=dark
-    because it seems `srcset` stopped reading the url past a comma, so it would only read typescript and ignore the rest 
+    because it seems that `srcset` stopped reading the URL past the comma. As a result, it only read TypeScript and ignored the rest of the URL. 
     -->
     <source
       srcset="https://shorturl.at/admKY"
