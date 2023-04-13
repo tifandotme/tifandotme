@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://tifan.me/">Tifan</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://tifan.me/">Tifan</a></h1>
 
 <p align="center">
   Full-stack developer proficient in React and TypeScript with a passion for free and open-source software
