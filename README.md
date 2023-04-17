@@ -26,23 +26,23 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true"
+      srcset="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true"
       media="(prefers-color-scheme: dark)"
     />
     <img
       alt="Stats"
-      src="https://github-readme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_light&disable_animations=true"
+      src="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_light&disable_animations=true"
     />
   </picture>
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true"
+      srcset="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <img
       alt="Most used languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_light&disable_animations=true&hide_border=true"
+      src="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_light&disable_animations=true&hide_border=true"
     />
   </picture>
 </p>
