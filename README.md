@@ -36,13 +36,16 @@
   </picture>
 
   <picture>
+    <!--
+    shortened from: https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html,css&layout=compact&disable_animations=true&hide_border=true&theme=github_dark
+    -->
     <source
-      srcset="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_dark&disable_animations=true&hide_border=true"
+      srcset="https://shorturl.at/fjp18"
       media="(prefers-color-scheme: dark)"
     />
     <img
       alt="Most used languages"
-      src="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&layout=compact&theme=github_light&disable_animations=true&hide_border=true"
+      src="https://shorturl.at/duFW2"
     />
   </picture>
 </p>
