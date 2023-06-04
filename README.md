@@ -8,16 +8,16 @@
 <p align="center">
   <picture>
     <!--
-    shortened from: https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash&theme=dark
+    shortened from: https://skillicons.dev/icons?i=typescript,react,nextjs,firebase,googlecloud,mysql,planetscale,deno,nodejs,linux,bash&theme=dark
     because it seems that `srcset` stopped reading the URL past the comma. As a result, it only read TypeScript and ignored the rest of the URL. 
     -->
     <source
-      srcset="https://shorturl.at/admKY"
+      srcset="https://shorturl.at/arsFW"
       media="(prefers-color-scheme: dark)"
     />
     <img
       alt="Tech stack"
-      src="https://skillicons.dev/icons?i=typescript,react,firebase,googlecloud,deno,nodejs,linux,bash&theme=light"
+      src="https://skillicons.dev/icons?i=typescript,react,nextjs,firebase,googlecloud,mysql,planetscale,deno,nodejs,linux,bash&theme=light"
     />
   </picture>
 </p>
