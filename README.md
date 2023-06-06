@@ -64,8 +64,6 @@
   </picture>
 </p>
 
-
-
 <!--
 <details>
   <summary>My GPG public key</summary>
@@ -87,6 +85,7 @@
   ```
 </details>
 
+[My GPG public key](https://github.com/tifandotme.gpg)
 
 https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
 
