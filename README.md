@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://tifan.me/">Tifan</a></h1>
 
 <p align="center">
-  I build elegant web applications using the powerful React ecosystem
+  I build interactive and elegant web applications using the powerful React ecosystem
 </p>
 
 <h2>I work with this tech</h2>
