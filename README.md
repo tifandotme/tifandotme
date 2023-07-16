@@ -52,7 +52,7 @@
 
 <h2>Projects</h2>
 
-**[🚚 Puri](https://github.com/tifandotme/puri)** - An order management system for a building materials distribution company based in Semarang.
+ • **[Puri](https://github.com/tifandotme/puri)** - An order management system for a building materials distribution company based in Semarang.
 
 <br>
 <p align="right">
@@ -65,6 +65,9 @@
 </p>
 
 <!--
+
+[My GPG public key](https://github.com/tifandotme.gpg)
+
 <details>
   <summary>My GPG public key</summary>
   
@@ -85,7 +88,7 @@
   ```
 </details>
 
-[My GPG public key](https://github.com/tifandotme.gpg)
+
 
 https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
 
