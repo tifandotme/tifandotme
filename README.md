@@ -37,7 +37,7 @@
 
   <picture>
     <!--
-    shortened from: https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html,css&layout=compact&disable_animations=true&hide_border=true&theme=github_dark
+    shortened from: https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html,css&layout=compact&disable_animations=true&hide_border=true&theme=github_darkt&size_weight=0.8&count_weight=0.2
     -->
     <source
       srcset="https://shorturl.at/eiV28"
