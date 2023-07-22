@@ -40,12 +40,12 @@
     shortened from: https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html,css&layout=compact&disable_animations=true&hide_border=true&theme=github_dark
     -->
     <source
-      srcset="https://shorturl.at/fjp18"
+      srcset="https://shorturl.at/eiV28"
       media="(prefers-color-scheme: dark)"
     />
     <img
       alt="Most used languages"
-      src="https://shorturl.at/duFW2"
+      src="https://shorturl.at/btxJ0"
     />
   </picture>
 </p>
