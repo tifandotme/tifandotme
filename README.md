@@ -26,12 +26,12 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_dark&disable_animations=true"
+      srcset="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=contribs&count_private=true&hide_border=true&theme=github_dark&disable_animations=true"
       media="(prefers-color-scheme: dark)"
     />
     <img
       alt="Stats"
-      src="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=issues&count_private=true&hide_border=true&theme=github_light&disable_animations=true"
+      src="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=contribs&count_private=true&hide_border=true&theme=github_light&disable_animations=true"
     />
   </picture>
 
