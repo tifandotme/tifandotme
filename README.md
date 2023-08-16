@@ -50,9 +50,9 @@
   </picture>
 </p>
 
-<h2>Projects</h2>
-
- • **[Puri](https://github.com/tifandotme/puri)** - An order management system for a building materials distribution company based in Semarang.
+<picture>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</picture>
 
 <br>
 <p align="right">
