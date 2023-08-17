@@ -7,17 +7,13 @@
 <h2>I work with this tech</h2>
 <p align="center">
   <picture>
-    <!--
-    shortened from: https://skillicons.dev/icons?i=typescript,react,nextjs,tailwindcss,firebase,googlecloud,mysql,planetscale,deno,nodejs,linux,bash&theme=dark
-    because it seems that `srcset` stopped reading the URL past the comma. As a result, it only read TypeScript and ignored the rest of the URL. 
-    -->
     <source
-      srcset="https://shorturl.at/mny49"
+      srcset="https://skillicons.dev/icons?i=typescript%2Creact%2Cnextjs%2Ctailwindcss%2Cfirebase%2Cgooglecloud%2Cmysql%2Credis%2Cdeno%2Cnodejs%2Clinux%2Cbash&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <img
       alt="Tech stack"
-      src="https://shorturl.at/lEL24"
+      src="https://skillicons.dev/icons?i=typescript%2Creact%2Cnextjs%2Ctailwindcss%2Cfirebase%2Cgooglecloud%2Cmysql%2Credis%2Cdeno%2Cnodejs%2Clinux%2Cbash"
     />
   </picture>
 </p>
@@ -36,23 +32,16 @@
   </picture>
 
   <picture>
-    <!--
-    shortened from: https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html,css&layout=compact&disable_animations=true&hide_border=true&theme=github_darkt&size_weight=0.8&count_weight=0.2
-    -->
     <source
-      srcset="https://shorturl.at/eiV28"
+      srcset="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html%2Ccss&layout=compact&disable_animations=true&hide_border=true&theme=github_dark&size_weight=0.8&count_weight=0.2"
       media="(prefers-color-scheme: dark)"
     />
     <img
       alt="Most used languages"
-      src="https://shorturl.at/btxJ0"
+      src="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html%2Ccss&layout=compact&disable_animations=true&hide_border=true&theme=github_light&size_weight=0.8&count_weight=0.2"
     />
   </picture>
 </p>
-
-<picture>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-</picture>
 
 <br>
 <p align="right">
@@ -66,29 +55,9 @@
 
 <!--
 
-[My GPG public key](https://github.com/tifandotme.gpg)
-
-<details>
-  <summary>My GPG public key</summary>
-  
-  ```
-  -----BEGIN PGP PUBLIC KEY BLOCK-----
-
-  mDMEZCxEZhYJKwYBBAHaRw8BAQdAllwYRWTdeJ+XeIlDVX3091ddROl45//hTYrp
-  wzjyZty0F1RpZmFuIDx0aWZhbkBwcm90b24ubWU+iJMEExYKADsWIQSBdrle4w53
-  hGWeb95ZkJIMsOl/HgUCZCxEZgIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIX
-  gAAKCRBZkJIMsOl/HsInAQCToy99q4KzzZE9FWikL6m1RO6tRoCUjJhkZM5+QYqs
-  7wD/YEDMgyp+mCrESqaTYGZ4casEXAvrX0Mmjrptpo5z7wq4OARkLERmEgorBgEE
-  AZdVAQUBAQdAgpFLbsCekZ13+dGRR+gOwkt6YjsDq3KOE/RYtaVo4XoDAQgHiHgE
-  GBYKACAWIQSBdrle4w53hGWeb95ZkJIMsOl/HgUCZCxEZgIbDAAKCRBZkJIMsOl/
-  Hs45AQDTW8c/YSifLigUlYUQTPUyiC4ZxReGvvYOyGvPEC5XggD/ZuCAw3J2SiFX
-  F54URvoJyaoIg4skAf7bcU29i6BSeg4=
-  =4fq2
-  -----END PGP PUBLIC KEY BLOCK-----
-  ```
-</details>
-
-
+<picture>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</picture>
 
 https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
 
