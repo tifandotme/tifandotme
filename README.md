@@ -13,7 +13,7 @@
     />
     <img
       alt="Tech stack"
-      src="https://skillicons.dev/icons?i=typescript%2Creact%2Cnextjs%2Ctailwindcss%2Cfirebase%2Cgooglecloud%2Cmysql%2Credis%2Cdeno%2Cnodejs%2Clinux%2Cbash"
+      src="https://skillicons.dev/icons?i=typescript%2Creact%2Cnextjs%2Ctailwindcss%2Cfirebase%2Cgooglecloud%2Cmysql%2Credis%2Cdeno%2Cnodejs%2Clinux%2Cbash&theme=light"
     />
   </picture>
 </p>
