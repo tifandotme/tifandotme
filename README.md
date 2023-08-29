@@ -12,7 +12,7 @@ I build interactive and elegant web applications and share my discoveries throug
 - Aug 29, 2023 [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
 <!-- BLOG-POST-LIST:END -->
 
-### :pick: [Coding time this past week](https://wakatime.com/@tifandotme)
+### :stopwatch: [Coding time this past week](https://wakatime.com/@tifandotme)
 
 <!--START_SECTION:waka-->
 
