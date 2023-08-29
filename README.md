@@ -1,27 +1,29 @@
-<h1 align="center">Hi, I'm <a href="https://tifan.me/">Tifan</a></h1>
+### Hey :wave:, call me **Tifan**.
 
-<p align="center">
-  I build interactive and elegant web applications with the powerful React ecosystem
-</p>
+I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
 
-# Latest blog posts
+- :speech_balloon: Let's chat on [Twitter](https://twitter.com/tifandotme).
+- :star: My Awesome Stars
+- :key: [GPG key](https://github.com/tifandotme.gpg)
+
+### :memo: [Latest blog posts](https://tifan.me/blog)
+
 <!-- BLOG-POST-LIST:START -->
-- [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <h2>I work with this tech</h2>
-<p align="center">
-  <picture>
-    <source
-      srcset="https://skillicons.dev/icons?i=typescript%2Creact%2Cnextjs%2Ctailwindcss%2Cfirebase%2Cgooglecloud%2Cmysql%2Credis%2Cdeno%2Cnodejs%2Clinux%2Cbash&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      alt="Tech stack"
-      src="https://skillicons.dev/icons?i=typescript%2Creact%2Cnextjs%2Ctailwindcss%2Cfirebase%2Cgooglecloud%2Cmysql%2Credis%2Cdeno%2Cnodejs%2Clinux%2Cbash&theme=light"
-    />
-  </picture>
-</p> -->
+### :bar_chart: [Coding time in past month](https://wakatime.com/@tifandotme)
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+<br>
+<picture>
+  <img
+    alt="Profile views badge"
+    src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square"
+    align="right"
+  />
+</picture>
 
 <!-- <h2>My stats</h2>
 <p align="center">
@@ -46,33 +48,18 @@
       src="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html%2Ccss&layout=compact&disable_animations=true&hide_border=true&theme=github_light&size_weight=0.8&count_weight=0.2"
     />
   </picture>
-</p>
-
-<br>
-<p align="right">
-  <picture>
-    <img
-      alt="Profile views badge"
-      src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square"
-    />
-  </picture>
 </p> -->
 
+<!-- <a href="https://tifan.me">
+  <img
+    alt="Logo"
+    src="https://raw.githubusercontent.com/tifandotme/website/master/src/app/icon.png"
+    width="190px"
+    align="right"
+  />
+</a> -->
+
 <!--
-
-<picture>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-</picture>
-
-https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
-
-Skillicons soon-to-be-added icons:
-prisma,tailwindcss,astro,sentry,nextjs,planetscale,postgress,postman,rabbitmq,redis,wasm
-
-Notable stats:
-- https://git.io/streak-stats
+- https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
 - https://www.githubtrends.io/wrapped/tifandotme
-- https://github.com/gautamkrishnar/blog-post-workflow
-
-TODO: Add WakaTime stats once I have decent amount of data
 -->
