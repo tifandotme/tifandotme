@@ -1,5 +1,17 @@
 ## Hey :wave:, call me **Tifan**
 
+<picture>
+  <source
+    srcset="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=contribs&count_private=true&hide_border=true&theme=github_dark&disable_animations=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    alt="Stats"
+    src="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=contribs&count_private=true&hide_border=true&theme=github_light&disable_animations=true"
+    align="right"
+  />
+</picture>
+
 I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
 
 - :speech_balloon: Let's chat on [Twitter](https://twitter.com/tifandotme)
