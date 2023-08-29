@@ -6,7 +6,7 @@ on:
 
 jobs:
   waka-readme:
-    name: WakaReadme DevMetrics
+    name: Update this repo's README with WakaTime stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
