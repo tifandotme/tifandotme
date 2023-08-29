@@ -17,11 +17,11 @@ I build interactive and elegant web applications and share my discoveries throug
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       112 hrs 40 mins ██████████████████▓░░░░░░   74.23 %
-MDX              7 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-JavaScript       7 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Markdown         4 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-JSON             4 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+TypeScript       19 hrs 50 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.88 %
+Assembly         2 hrs 54 mins   ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.66 %
+JavaScript       1 hr 30 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.55 %
+JSON             51 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.14 %
+Ezhil            38 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.36 %
 ```
 
 <!--END_SECTION:waka-->
