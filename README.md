@@ -6,6 +6,7 @@
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h2>I work with this tech</h2>
