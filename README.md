@@ -1,4 +1,4 @@
-## Hey :wave:, call me **Tifan**.
+## Hey :wave:, call me **Tifan**
 
 I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
 
@@ -6,13 +6,13 @@ I build interactive and elegant web applications and share my discoveries throug
 - :star: My Awesome Stars
 - :key: [GPG key](https://github.com/tifandotme.gpg)
 
-### :memo: [Latest blog posts](https://tifan.me/blog)
+### :pencil: [Latest blog posts](https://tifan.me/blog)
 
 <!-- BLOG-POST-LIST:START -->
 - Aug 29, 2023 [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
 <!-- BLOG-POST-LIST:END -->
 
-### :bar_chart: [Coding time in past month](https://wakatime.com/@tifandotme)
+### :pick: [Coding time this past week](https://wakatime.com/@tifandotme)
 
 <!--START_SECTION:waka-->
 
