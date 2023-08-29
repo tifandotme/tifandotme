@@ -1,7 +1,6 @@
 name: Waka Readme
 on:
   schedule: [{ cron: "0 * * * *" }] # Runs every hour, on the hour
-  push: { branches: ["master", "main"] } # Run workflow when pushing on master/main
   workflow_dispatch: # Run workflow manually
 
 jobs:
@@ -12,3 +11,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_30_days
