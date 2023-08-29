@@ -1,21 +1,20 @@
-### Hey :wave:, call me **Tifan**.
+## Hey :wave:, call me **Tifan**.
 
 I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
 
-- :speech_balloon: Let's chat on [Twitter](https://twitter.com/tifandotme).
+- :speech_balloon: Let's chat on [Twitter](https://twitter.com/tifandotme)
 - :star: My Awesome Stars
 - :key: [GPG key](https://github.com/tifandotme.gpg)
 
 ### :memo: [Latest blog posts](https://tifan.me/blog)
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
 <!-- BLOG-POST-LIST:END -->
 
 ### :bar_chart: [Coding time in past month](https://wakatime.com/@tifandotme)
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 <picture>
