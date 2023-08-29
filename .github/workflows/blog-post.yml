@@ -1,7 +1,6 @@
 name: Blog post
 on:
   schedule: [{ cron: "0 * * * *" }] # Runs every hour, on the hour
-  push: { branches: ["master", "main"] } # Run workflow when pushing on master/main
   workflow_dispatch: # Run workflow manually
 permissions:
   contents: write # To write the generated contents to the readme
