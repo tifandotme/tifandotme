@@ -8,9 +8,7 @@ I build interactive and elegant web applications and share my discoveries throug
 
 ### :memo: [Latest blog posts](https://tifan.me/blog)
 
-<!-- BLOG-POST-LIST:START -->
-- [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->Tue Aug 29 2023 12:00 AM - [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)<!-- BLOG-POST-LIST:END -->
 
 ### :bar_chart: [Coding time in past month](https://wakatime.com/@tifandotme)
 
