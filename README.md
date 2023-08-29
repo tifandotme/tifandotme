@@ -4,7 +4,11 @@
   I build interactive and elegant web applications with the powerful React ecosystem
 </p>
 
-<h2>I work with this tech</h2>
+# Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- <h2>I work with this tech</h2>
 <p align="center">
   <picture>
     <source
@@ -16,9 +20,9 @@
       src="https://skillicons.dev/icons?i=typescript%2Creact%2Cnextjs%2Ctailwindcss%2Cfirebase%2Cgooglecloud%2Cmysql%2Credis%2Cdeno%2Cnodejs%2Clinux%2Cbash&theme=light"
     />
   </picture>
-</p>
+</p> -->
 
-<h2>My stats</h2>
+<!-- <h2>My stats</h2>
 <p align="center">
   <picture>
     <source
@@ -51,7 +55,7 @@
       src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square"
     />
   </picture>
-</p>
+</p> -->
 
 <!--
 
