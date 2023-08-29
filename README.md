@@ -6,7 +6,7 @@ I build interactive and elegant web applications and share my discoveries throug
 - :star: My Awesome Stars
 - :key: [GPG key](https://github.com/tifandotme.gpg)
 
-### :pencil: [Latest blog posts](https://tifan.me/blog)
+### :pencil2: [Latest blog posts](https://tifan.me/blog)
 
 <!-- BLOG-POST-LIST:START -->
 - Aug 29, 2023 [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
