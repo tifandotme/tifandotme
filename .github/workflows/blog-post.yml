@@ -16,5 +16,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
           feed_list: "https://tifan.me/feed.xml"
-          template: "- $date $title<br/>"
+          template: "$newline- $date [$title]($url)$newline"
           date_format: "mmm d, yyyy"
