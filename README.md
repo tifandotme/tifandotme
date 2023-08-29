@@ -1,16 +1,13 @@
 ## Hey :wave:, call me **Tifan**
 
-<picture>
-  <source
-    srcset="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=contribs&count_private=true&hide_border=true&theme=github_dark&disable_animations=true"
-    media="(prefers-color-scheme: dark)"
-  />
+<a href="https://tifan.me">
   <img
-    alt="Stats"
-    src="https://tifandotme-stats.vercel.app/api?username=tifandotme&show_icons=true&hide_rank=true&custom_title=Stats&hide=contribs&count_private=true&hide_border=true&theme=github_light&disable_animations=true"
+    alt="Logo"
+    src="https://raw.githubusercontent.com/tifandotme/website/master/src/app/apple-icon.png"
+    width="190px"
     align="right"
   />
-</picture>
+</a>
 
 I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
 
@@ -21,21 +18,11 @@ I build interactive and elegant web applications and share my discoveries throug
 ### :pencil2: [Latest blog posts](https://tifan.me/blog)
 
 <!-- BLOG-POST-LIST:START -->
-- Aug 29, 2023 [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
 <!-- BLOG-POST-LIST:END -->
 
 ### :stopwatch: [Coding time this past week](https://wakatime.com/@tifandotme)
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript       18 hrs 42 mins  ███████████████░░░░░░░░░░   60.57 %
-Assembly         3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Markdown         2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-JavaScript       1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-JSON             1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-```
-
 <!--END_SECTION:waka-->
 
 <br>
