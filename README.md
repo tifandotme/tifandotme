@@ -24,6 +24,15 @@ I build interactive and elegant web applications and share my discoveries throug
 ### :stopwatch: [Coding time this past week](https://wakatime.com/@tifandotme)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       18 hrs 42 mins  ███████████████░░░░░░░░░░   60.57 %
+Assembly         3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Markdown         2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+JavaScript       1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+JSON             1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
