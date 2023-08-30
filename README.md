@@ -40,12 +40,12 @@ I build interactive and elegant web applications and share my discoveries throug
 
 <!--START_SECTION:waka-->
 
-```TS
-TypeScript       18 hrs 42 mins  ███████████████░░░░░░░░░░   60.57 %
-Markdown         7 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-JavaScript       1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-JSON             1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-YAML             38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+```ts
+TypeScript       18 hrs 42 mins  ###############----------   60.57 %
+Markdown         7 hrs           #####=-------------------   22.70 %
+JavaScript       1 hr 47 mins    #=-----------------------   05.81 %
+JSON             1 hr 14 mins    #------------------------   04.01 %
+YAML             38 mins         =------------------------   02.05 %
 ```
 
 <!--END_SECTION:waka-->
