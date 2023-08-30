@@ -13,5 +13,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_7_days
           CODE_LANG: ts
-          BLOCKS: -=#
+          BLOCKS: ▒▓
           STOP_AT_OTHER: true
