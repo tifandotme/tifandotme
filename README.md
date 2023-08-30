@@ -6,7 +6,7 @@
       <picture>
         <img
           alt="Logo"
-          src="./assets/icon.png"
+          src="./assets/icon.svg"
           width="150px"
         />
       </picture>
