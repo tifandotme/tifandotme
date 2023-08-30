@@ -6,7 +6,7 @@
       <picture>
         <img
           alt="Logo"
-          src="https://raw.githubusercontent.com/tifandotme/website/master/src/app/apple-icon.png"
+          src="./assets/icon.png"
           width="150px"
         />
       </picture>
