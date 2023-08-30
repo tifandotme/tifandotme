@@ -1,17 +1,16 @@
 name: Blog Posts
+
 on:
-  schedule: [{ cron: "0 * * * *" }] # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually
+  schedule: [{ cron: "0 2 * * *" }] # every day at 2am
+  workflow_dispatch: # manually run workflow
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write # write the generated contents to the readme
 
 jobs:
   blog-posts:
-    name: update blog-posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       - name: Pull tifan.me posts
         uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
