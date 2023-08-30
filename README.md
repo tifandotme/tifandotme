@@ -3,14 +3,12 @@
 <table align="right">
   <tr>
     <td>
-      <picture>
-        <img
-          alt="Logo"
-          src="./assets/icon.svg"
-          width="150px"
-          height="150px"
-        />
-      </picture>
+      <img
+        alt="Logo"
+        src="./assets/icon.svg"
+        width="150px"
+        height="150px"
+      />
     </td>
   </tr>
   <tr>
