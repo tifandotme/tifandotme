@@ -27,7 +27,7 @@ I build interactive and elegant web applications and share my discoveries throug
 
 <br/>
 
-### :pencil2: [Latest blog posts](https://tifan.me/blog)
+### :pencil2: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - Aug 29, 2023 [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
@@ -35,7 +35,7 @@ I build interactive and elegant web applications and share my discoveries throug
 
 <br/>
 
-### :stopwatch: [Coding time last week](https://wakatime.com/@tifandotme)
+### :stopwatch: Coding time last week
 
 <!--START_SECTION:waka-->
 
