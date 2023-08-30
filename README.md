@@ -1,13 +1,23 @@
 ## Hey :wave:, call me **Tifan**
 
-<a href="https://tifan.me">
-  <img
-    alt="Logo"
-    src="https://raw.githubusercontent.com/tifandotme/website/master/src/app/apple-icon.png"
-    width="190px"
-    align="right"
-  />
-</a>
+<table align="right">
+  <tr>
+    <td>
+      <picture>
+        <img
+          alt="Logo"
+          src="https://raw.githubusercontent.com/tifandotme/website/master/src/app/apple-icon.png"
+          width="150px"
+        />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://tifan.me/blog"><strong>Visit blog »</strong></a>
+    </td>
+  </tr>
+</table>
 
 I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
 
@@ -25,7 +35,7 @@ I build interactive and elegant web applications and share my discoveries throug
 
 <br/>
 
-### :stopwatch: [Coding time this past week](https://wakatime.com/@tifandotme)
+### :stopwatch: [Coding time last week](https://wakatime.com/@tifandotme)
 
 <!--START_SECTION:waka-->
 
@@ -39,13 +49,8 @@ YAML             38 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<br>
 <picture>
-  <img
-    alt="Profile views badge"
-    src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square"
-    align="right"
-  />
+  <img alt="Profile views badge" src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square" align="right" />
 </picture>
 
 <!-- <h2>My stats</h2>
@@ -73,16 +78,8 @@ YAML             38 mins         ▓░░░░░░░░░░░░░░�
   </picture>
 </p> -->
 
-<!-- <a href="https://tifan.me">
-  <img
-    alt="Logo"
-    src="https://raw.githubusercontent.com/tifandotme/website/master/src/app/icon.png"
-    width="190px"
-    align="right"
-  />
-</a> -->
-
 <!--
+Resources:
 - https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
 - https://www.githubtrends.io/wrapped/tifandotme
 -->
