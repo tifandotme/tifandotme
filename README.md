@@ -22,7 +22,7 @@
 I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
 
 - :speech_balloon: Let's chat on [X/Twitter](https://x.com/tifandotme)
-- :star: My Awesome Stars
+- :star: [Awesome Stars](AWESOME-STARS.md) (my curated list of starred projects)
 - :key: [GPG key](https://github.com/tifandotme.gpg)
 
 <br/>
