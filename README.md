@@ -3,12 +3,14 @@
 <table align="right">
   <tr>
     <td>
-      <img
-        alt="Logo"
-        src="./assets/icon.svg"
-        width="150px"
-        height="150px"
-      />
+      <a href="https://tifan.me">
+        <img
+          alt="Logo"
+          src="./assets/icon.svg"
+          width="150px"
+          height="150px"
+        />
+      </a>
     </td>
   </tr>
   <tr>
@@ -38,7 +40,7 @@ I build interactive and elegant web applications and share my discoveries throug
 
 <!--START_SECTION:waka-->
 
-```txt
+```TS
 TypeScript       18 hrs 42 mins  ███████████████░░░░░░░░░░   60.57 %
 Markdown         7 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
 JavaScript       1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
