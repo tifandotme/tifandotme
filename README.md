@@ -8,6 +8,7 @@
           alt="Logo"
           src="./assets/icon.svg"
           width="150px"
+          height="150px"
         />
       </picture>
     </td>
