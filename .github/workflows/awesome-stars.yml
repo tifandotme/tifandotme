@@ -1,13 +1,11 @@
 name: Awesome Stars
 
 on:
-  schedule:
-    - cron: 0 18 * * *
-  workflow_dispatch:
+  schedule: [{ cron: "0 2 * * *" }] # every day at 2am
+  workflow_dispatch: # manually run workflow
 
 jobs:
   awesome-stars:
-    name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -23,10 +21,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Update awesome stars"
+          git diff-index --quiet HEAD || git commit -m "Update AWESOME-STARS.md"
       - name: Pull changes
         run: git pull -r
       - name: Push changes
-        uses: ad-m/github-push-action@9a2e3c14aaecf56d5816dc3a54514f82050820b2
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
