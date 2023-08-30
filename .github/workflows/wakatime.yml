@@ -4,8 +4,8 @@ on:
   workflow_dispatch: # Run workflow manually
 
 jobs:
-  waka-readme:
-    name: Update this repo's README with WakaTime stats
+  wakatime:
+    name: Update wakatime
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
