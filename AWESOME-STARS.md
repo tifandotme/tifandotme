@@ -50,6 +50,8 @@
 
 ## Go 
 
+- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [ekzhang/classes.wtf](https://github.com/ekzhang/classes.wtf) - A course catalog with extremely fast full-text search
