@@ -1,6 +1,6 @@
 ## Hey :wave:, call me **Tifan**
 
-<table align="right">
+<!-- <table align="right">
   <tr>
     <td>
       <a href="https://tifan.me">
@@ -18,7 +18,7 @@
       <a href="https://tifan.me/blog"><strong>Visit blog »</strong></a>
     </td>
   </tr>
-</table>
+</table> -->
 
 I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
 
