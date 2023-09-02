@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [evilfactorylabs/learning-resources](https://github.com/evilfactorylabs/learning-resources) - a curated list of "basic" knowledge that "good to know" by evilfactorylabs members. But feel free to take a look and learn together!
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
@@ -52,6 +53,7 @@
 
 ## Go 
 
+- [dmgk/faker](https://github.com/dmgk/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -81,6 +83,7 @@
 
 ## JavaScript 
 
+- [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker) - Read Medium content without limit!
@@ -142,6 +145,7 @@
 
 ## Python 
 
+- [benbarth/hacktoberfest-swag](https://github.com/benbarth/hacktoberfest-swag) - Looking for hacktoberfest swag? You've come to the right place.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
