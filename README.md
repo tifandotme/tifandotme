@@ -41,11 +41,11 @@ I build interactive and elegant web applications and share my discoveries throug
 <!--START_SECTION:waka-->
 
 ```ts
-TypeScript   8 hrs 45 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒   74.25 %
-CSS          1 hr 22 mins    ▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   11.65 %
-JavaScript   43 mins         ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.19 %
-TSConfig     18 mins         ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.61 %
-JSON         17 mins         ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.49 %
+TypeScript   19 hrs 32 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒   85.29 %
+CSS          1 hr 24 mins    ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.16 %
+JavaScript   58 mins         ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   04.22 %
+JSON         19 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   01.42 %
+TSConfig     18 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   01.36 %
 ```
 
 <!--END_SECTION:waka-->
