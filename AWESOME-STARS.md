@@ -53,6 +53,7 @@
 
 ## Go 
 
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [dmgk/faker](https://github.com/dmgk/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
