@@ -1,4 +1,4 @@
-## [&#x200B;](#) Hey :wave:, call me **Tifan**
+## [&#x200B;](#)Hey :wave:, call me **Tifan**
 
 <!-- <table align="right">
   <tr>
@@ -28,7 +28,7 @@ I build interactive and elegant web applications and share my discoveries throug
 
 <br/>
 
-### [&#x200B;](#) :pencil2: Latest blog posts
+### [&#x200B;](#):pencil2: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - Aug 29, 2023 [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
@@ -36,7 +36,7 @@ I build interactive and elegant web applications and share my discoveries throug
 
 <br/>
 
-### [&#x200B;](#) :stopwatch: Last 7 days coding time
+### [&#x200B;](#):stopwatch: Last 7 days coding time
 
 <!--START_SECTION:waka-->
 
