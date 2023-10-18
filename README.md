@@ -36,7 +36,7 @@ I build interactive and elegant web applications and share my discoveries throug
 
 <br/>
 
-### [&#x200B;](#):stopwatch: Last 7 days coding time
+### [&#x200B;](#):stopwatch: Coding time (last 7 days)
 
 <!--START_SECTION:waka-->
 
