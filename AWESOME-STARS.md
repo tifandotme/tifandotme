@@ -21,6 +21,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -166,6 +167,10 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
+## SCSS 
+
+- [shannonmoeller/reset-css](https://github.com/shannonmoeller/reset-css) - An unmodified* copy of Eric Meyer's CSS reset. PostCSS, webpack, Sass, and Less friendly.
 
 ## Shell 
 
