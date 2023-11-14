@@ -85,6 +85,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
