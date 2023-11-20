@@ -189,6 +189,7 @@
 
 ## TypeScript 
 
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
