@@ -193,6 +193,7 @@
 
 ## TypeScript 
 
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [alexcanessa/typescript-coverage-report](https://github.com/alexcanessa/typescript-coverage-report) - Node command tool to generate TypeScript coverage report
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
