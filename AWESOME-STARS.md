@@ -194,6 +194,7 @@
 
 ## TypeScript 
 
+- [souporserious/mdxts](https://github.com/souporserious/mdxts) - The Content & Docs SDK for React
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [alexcanessa/typescript-coverage-report](https://github.com/alexcanessa/typescript-coverage-report) - Node command tool to generate TypeScript coverage report
