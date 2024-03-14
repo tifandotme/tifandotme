@@ -1,4 +1,4 @@
-## [&#x200B;](#)Hey :wave:, call me **Tifan**
+<!-- ## [&#x200B;](#)Hello :wave: -->
 
 <!-- <table align="right">
   <tr>
@@ -20,13 +20,9 @@
   </tr>
 </table> -->
 
-I build interactive and elegant web applications and share my discoveries through my blog to empower fellow developers.
-
-- :speech_balloon: Let's chat on [X/Twitter](https://x.com/tifandotme)
+<!---  - :speech_balloon: Let's chat on [X/Twitter](https://x.com/tifandotme)
 - :star: [Awesome Stars](AWESOME-STARS.md) (projects starred by me)
-- :key: [GPG key](https://github.com/tifandotme.gpg)
-
-<br/>
+:key: [GPG key](https://github.com/tifandotme.gpg)-->
 
 ### [&#x200B;](#):pencil2: Latest blog posts
 
