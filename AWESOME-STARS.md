@@ -159,7 +159,6 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [1337/yesterday-i-learned](https://github.com/1337/yesterday-i-learned) - Brainfarts are caused by the rupturing of the cerebral sphincter.
 
 ## Rust 
 
