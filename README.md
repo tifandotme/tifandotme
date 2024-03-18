@@ -24,17 +24,17 @@
 - :star: [Awesome Stars](AWESOME-STARS.md) (projects starred by me)
 :key: [GPG key](https://github.com/tifandotme.gpg)-->
 
-### [&#x200B;](#):pencil2: Latest blog posts
+<!--### [&#x200B;](#):pencil2: Latest blog posts-->
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START
 - Aug 29, 2023 [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
-<br/>
+<!--<br/>
 
-### [&#x200B;](#):stopwatch: Coding time (last 7 days)
+### [&#x200B;](#):stopwatch: Coding time (last 7 days) -->
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 
 ```ts
 TypeScript   5 hrs 7 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒   80.63 %
@@ -44,7 +44,7 @@ JavaScript   9 mins          ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 CSS          7 mins          ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.08 %
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 <picture>
   <img alt="Profile views badge" src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square" align="right" />
