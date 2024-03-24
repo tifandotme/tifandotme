@@ -35,6 +35,15 @@
 ### [&#x200B;](#):stopwatch: Coding time (last 7 days)
 
 <!--START_SECTION:waka-->
+
+```ts
+TypeScript    22 hrs 37 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒   89.37 %
+JavaScript    1 hr 18 mins    ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   05.16 %
+Image (svg)   32 mins         ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.16 %
+JSON          15 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   01.01 %
+CSS           14 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   00.96 %
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
