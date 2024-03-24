@@ -34,17 +34,8 @@
 
 ### [&#x200B;](#):stopwatch: Coding time (last 7 days)
 
-<!-- START_SECTION:waka
-
-```ts
-TypeScript   5 hrs 7 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒   80.63 %
-JSON         29 mins         ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   07.82 %
-Markdown     10 mins         ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.75 %
-JavaScript   9 mins          ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.41 %
-CSS          7 mins          ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.08 %
-```
-
-END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <picture>
   <img alt="Profile views badge" src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square" align="right" />
