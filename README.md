@@ -27,7 +27,6 @@
 ### [&#x200B;](#):pencil2: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- Aug 29, 2023 [Solving &quot;Integer to English Words&quot; LeetCode problem](https://tifan.me/blog/integer-to-english-words)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
