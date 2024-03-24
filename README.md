@@ -34,7 +34,7 @@
 
 ### [&#x200B;](#):stopwatch: Coding time (last 7 days)
 
-<!-- START_SECTION:waka -->
+<!-- START_SECTION:waka
 
 ```ts
 TypeScript   5 hrs 7 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒   80.63 %
@@ -44,7 +44,7 @@ JavaScript   9 mins          ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 CSS          7 mins          ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.08 %
 ```
 
-<!-- END_SECTION:waka -->
+END_SECTION:waka -->
 
 <picture>
   <img alt="Profile views badge" src="https://komarev.com/ghpvc/?username=tifandotme&style=flat-square" align="right" />
