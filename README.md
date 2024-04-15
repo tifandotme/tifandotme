@@ -37,9 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```ts
-TypeScript    14 hrs 34 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒   82.19 %
-JavaScript    1 hr 14 mins    ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   07.00 %
-Other         42 mins         ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   04.02 %
+TypeScript    12 hrs 4 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒   74.67 %
+JavaScript    1 hr 36 mins    ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   09.96 %
+Other         54 mins         ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   05.65 %
 ```
 
 <!--END_SECTION:waka-->
