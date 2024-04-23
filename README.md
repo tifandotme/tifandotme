@@ -2,6 +2,7 @@
   <samp>
     <a href="https://tifan.me">blog</a> .
     <a href="https://tifan.me/projects">projects</a> .
+    <a href="https://linkedin.com/in/tifandotme">linkedin</a> .
     <a href="https://twitter.com/tifandotme">tweets</a> .
     <a href="https://tifan.me/gpg">gpg</a> .
     <a href="AWESOME-STARS.md">starred</a>
