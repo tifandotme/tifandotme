@@ -23,10 +23,10 @@
 
   <picture>
     <source
-      srcset="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html%2Ccss&layout=compact&disable_animations=true&hide_border=true&theme=github_dark&size_weight=0.8&count_weight=0.2"
+      srcset="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html%2Ccss&layout=compact&disable_animations=true&hide_border=true&theme=github_dark&size_weight=0.5&count_weight=0.5"
       media="(prefers-color-scheme: dark)" />
     <img alt="Most used languages"
-      src="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html%2Ccss&layout=compact&disable_animations=true&hide_border=true&theme=github_light&size_weight=0.8&count_weight=0.2" />
+      src="https://tifandotme-stats.vercel.app/api/top-langs/?username=tifandotme&hide=html%2Ccss&layout=compact&disable_animations=true&hide_border=true&theme=github_light&size_weight=0.5&count_weight=0.5" />
   </picture>
   </p>
 </details>
