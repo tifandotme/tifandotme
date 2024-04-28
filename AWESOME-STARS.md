@@ -18,6 +18,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Markdown](#markdown)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -88,6 +89,7 @@
 
 ## JavaScript 
 
+- [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js) - Render e-books in the browser
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
@@ -119,6 +121,10 @@
 ## Markdown 
 
 - [antfu/antfu.me](https://github.com/antfu/antfu.me) - My personal website
+
+## Nix 
+
+- [smravec/nixos-config](https://github.com/smravec/nixos-config) - Minimalistic Sway rice + NixOS
 
 ## Others 
 
@@ -169,6 +175,7 @@
 
 ## Rust 
 
+- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -200,6 +207,7 @@
 
 ## TypeScript 
 
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [devjiwonchoi/remote-mdx](https://github.com/devjiwonchoi/remote-mdx) - Use MDX in your React App
