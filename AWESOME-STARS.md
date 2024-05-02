@@ -176,6 +176,8 @@
 
 ## Rust 
 
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
