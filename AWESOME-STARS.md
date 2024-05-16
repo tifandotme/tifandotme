@@ -14,6 +14,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -101,6 +102,11 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
+## Lua 
+
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
+
 ## MDX 
 
 - [delbaoliveira/website](https://github.com/delbaoliveira/website) - My portfolio 👋
@@ -174,6 +180,7 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
