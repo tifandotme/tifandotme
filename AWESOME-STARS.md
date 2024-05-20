@@ -33,6 +33,7 @@
 
 ## C 
 
+- [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 
 ## C++ 
