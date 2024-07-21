@@ -143,6 +143,7 @@
 
 ## Others 
 
+- [ahr9n/linkedin-premium](https://github.com/ahr9n/linkedin-premium) - LinkedIn Premium Interview Preparation
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
