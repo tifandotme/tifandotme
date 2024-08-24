@@ -1,13 +1,11 @@
+<!--
 <p align="center">
   <samp>
-    <a href="https://tifan.me">blog</a> .
-    <a href="https://tifan.me/projects">projects</a> .
-    <a href="https://linkedin.com/in/tifandotme">linkedin</a> .
-    <a href="https://x.com/tifandotme">x</a> .
-    <a href="https://tifan.me/gpg">gpg</a> .
-    <a href="AWESOME-STARS.md">starred</a>
+    <a href="https://tifan.me/gpg">gpg key</a> .
+    <a href="AWESOME-STARS.md">starred repos</a>
   </samp>
 </p>
+-->
 
 <details>
   <summary>stats</summary>
