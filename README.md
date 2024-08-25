@@ -1,11 +1,8 @@
-<!--
 <p align="center">
   <samp>
-    <a href="https://tifan.me/gpg">gpg key</a> .
-    <a href="AWESOME-STARS.md">starred repos</a>
+    <a href="https://tifan.me/gpg">visit my website</a>
   </samp>
 </p>
--->
 
 <details>
   <summary>stats</summary>
