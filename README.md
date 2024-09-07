@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://tifan.me/gpg">visit my website</a>
+    <a href="https://tifan.me">visit my website</a>
   </samp>
 </p>
 
