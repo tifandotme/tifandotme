@@ -263,6 +263,7 @@
 
 ## TypeScript 
 
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [origin-space/originui](https://github.com/origin-space/originui) - 
 - [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
