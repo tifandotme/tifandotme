@@ -263,6 +263,7 @@
 
 ## TypeScript 
 
+- [ethanniser/NextMaster](https://github.com/ethanniser/NextMaster) - A highly performant replica of McMaster-Carr using Next.js
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [origin-space/originui](https://github.com/origin-space/originui) - 
