@@ -263,7 +263,7 @@
 
 ## TypeScript 
 
-- [ethanniser/NextMaster](https://github.com/ethanniser/NextMaster) - A highly performant replica of McMaster-Carr using Next.js
+- [ethanniser/NextMaster](https://github.com/ethanniser/NextMaster) - A highly performant e-commerce template using Next.js
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [origin-space/originui](https://github.com/origin-space/originui) - 
@@ -279,7 +279,7 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.
+- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [leona/helix-gpt](https://github.com/leona/helix-gpt) - Code assistant language server for Helix with support for Copilot/OpenAI/Codeium/Ollama
