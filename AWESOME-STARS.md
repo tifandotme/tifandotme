@@ -164,7 +164,6 @@
 ## Others 
 
 - [donkuri/Kaishi](https://github.com/donkuri/Kaishi) - Kaishi 1.5k is a modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary.
-- [ahr9n/linkedin-premium](https://github.com/ahr9n/linkedin-premium) - LinkedIn Premium Interview Preparation
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
