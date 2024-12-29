@@ -28,7 +28,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -112,7 +111,6 @@
 
 - [mrofisr/islamic-wedding-invitation](https://github.com/mrofisr/islamic-wedding-invitation) - A beautiful, modern, and interactive islamic wedding invitation website built with Vite ( React ), Tailwind CSS, and Framer Motion. Created with ❤️ by @mrofisr.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
-- [Divested-Mobile/Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix) - Build scripts for a web browser built upon Mozilla technology
 - [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js) - Render e-books in the browser
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
@@ -266,10 +264,6 @@
 ## SCSS 
 
 - [shannonmoeller/reset-css](https://github.com/shannonmoeller/reset-css) - An unmodified* copy of Eric Meyer's CSS reset. PostCSS, webpack, Sass, and Less friendly.
-
-## Shell 
-
-- [n4ru/1vyrain](https://github.com/n4ru/1vyrain) - LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking.
 
 ## Svelte 
 
