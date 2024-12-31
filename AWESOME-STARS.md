@@ -28,6 +28,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -73,6 +74,7 @@
 
 ## Go 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -264,6 +266,10 @@
 ## SCSS 
 
 - [shannonmoeller/reset-css](https://github.com/shannonmoeller/reset-css) - An unmodified* copy of Eric Meyer's CSS reset. PostCSS, webpack, Sass, and Less friendly.
+
+## Shell 
+
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 
 ## Svelte 
 
