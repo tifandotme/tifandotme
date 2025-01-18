@@ -231,6 +231,7 @@
 
 ## Rust 
 
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
