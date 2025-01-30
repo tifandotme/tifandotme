@@ -18,7 +18,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [Nushell](#nushell)
@@ -119,7 +118,7 @@
 ## JavaScript 
 
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-- [mrofisr/sakeenah](https://github.com/mrofisr/sakeenah) - Sakeenah: A beautiful, modern, and interactive islamic wedding invitation website built with Vite ( React ), Tailwind CSS, and Framer Motion. Created with ❤️ by @mrofisr.
+- [mrofisr/islamic-wedding-invitation](https://github.com/mrofisr/islamic-wedding-invitation) - A beautiful, modern, and interactive islamic wedding invitation website built with Vite ( React ), Tailwind CSS, and Framer Motion. Created with ❤️ by @mrofisr.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js) - Render e-books in the browser
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
@@ -141,10 +140,6 @@
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
-
-## MDX 
-
-- [delbaoliveira/website](https://github.com/delbaoliveira/website) - My portfolio 👋
 
 ## Markdown 
 
@@ -341,6 +336,7 @@
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [delbaoliveira/website](https://github.com/delbaoliveira/website) - My portfolio 👋
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
