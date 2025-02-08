@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [mrofisr/islamic-wedding-invitation](https://github.com/mrofisr/islamic-wedding-invitation) - A beautiful, modern, and interactive islamic wedding invitation website built with Vite ( React ), Tailwind CSS, and Framer Motion. Created with ❤️ by @mrofisr.
@@ -242,6 +243,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
