@@ -39,6 +39,7 @@
 
 ## C 
 
+- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 
