@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
@@ -44,6 +45,10 @@
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+
+## C# # 
+
+- [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 
 ## C++ 
 
@@ -144,7 +149,6 @@
 
 ## Lua 
 
-- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [blazkowolf/gruber-darker.nvim](https://github.com/blazkowolf/gruber-darker.nvim) - Neovim Lua port of gruber-darker-theme
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
@@ -173,6 +177,7 @@
 
 ## Nushell 
 
+- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 - [nushell/nupm](https://github.com/nushell/nupm) - A manager for Nushell packages.
 - [nushell/nufmt](https://github.com/nushell/nufmt) - 
