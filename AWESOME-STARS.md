@@ -326,6 +326,7 @@
 
 ## TypeScript 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [aleclarson/vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite
 - [radashi-org/radashi](https://github.com/radashi-org/radashi) - The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.
 - [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
