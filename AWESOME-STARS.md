@@ -267,6 +267,7 @@
 
 ## Rust 
 
+- [mierak/rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [hougesen/kdlfmt](https://github.com/hougesen/kdlfmt) - A formatter for kdl documents.
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
