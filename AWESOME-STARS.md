@@ -267,6 +267,9 @@
 
 ## Rust 
 
+- [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [hougesen/kdlfmt](https://github.com/hougesen/kdlfmt) - A formatter for kdl documents.
