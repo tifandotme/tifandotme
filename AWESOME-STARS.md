@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -26,6 +27,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -37,6 +39,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Batchfile 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
@@ -240,6 +246,10 @@
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 
+## PowerShell 
+
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+
 ## Python 
 
 - [BoboTiG/ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - Finally decent dictionaries based on the Wiktionary for your beloved eBook reader. Daily updates & 15 locales supported so far.
@@ -267,6 +277,7 @@
 
 ## Rust 
 
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
@@ -331,6 +342,7 @@
 
 ## Swift 
 
+- [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
