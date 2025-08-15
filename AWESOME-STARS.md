@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -268,6 +269,7 @@
 
 ## Python 
 
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) - bullshit-free web browser, wip
 - [reader-dict/monolingual](https://github.com/reader-dict/monolingual) - The greatest monolingual dictionaries based on the Wiktionary. Bimonthly updates & 15 locales supported so far.
