@@ -40,7 +40,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-- [YAML](#yaml)
 - [Zig](#zig)
 
 ## Batchfile 
@@ -346,6 +345,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -473,10 +473,6 @@
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution.
-
-## YAML 
-
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Zig 
 
