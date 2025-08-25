@@ -273,6 +273,7 @@
 
 ## Python 
 
+- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to Claude again. Local-first, integrates with Obsidian. Join our Discord: https://discord.gg/tyvKNccgqN
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) - bullshit-free web browser, wip
@@ -387,6 +388,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
