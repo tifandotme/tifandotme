@@ -365,7 +365,7 @@
 
 ## Shell 
 
-- [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - macOS packaging for helium-chromium
+- [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 
 ## Svelte 
