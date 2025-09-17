@@ -397,6 +397,7 @@
 
 ## TypeScript 
 
+- [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [smithery-ai/cli](https://github.com/smithery-ai/cli) - Install, manage and develop MCP servers
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.
