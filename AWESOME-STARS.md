@@ -399,6 +399,7 @@
 
 ## TypeScript 
 
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa is a Web Search API | This is Exa MCP (Model Context Protocol)
 - [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [smithery-ai/cli](https://github.com/smithery-ai/cli) - Install, manage and develop MCP servers
