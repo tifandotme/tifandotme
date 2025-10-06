@@ -136,6 +136,7 @@
 
 ## HTML 
 
+- [reader-dict/monolingual](https://github.com/reader-dict/monolingual) - The most comprehensive universal, multilingual, and monolingual dictionaries—perfect for e-readers, phones, tablets, and desktop apps. Powered by Wiktionary.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
@@ -294,7 +295,6 @@
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
-- [reader-dict/monolingual](https://github.com/reader-dict/monolingual) - The most comprehensive universal, multilingual, and monolingual dictionaries—perfect for e-readers, phones, tablets, and desktop apps. Powered by Wiktionary.
 - [braintrustdata/autoevals](https://github.com/braintrustdata/autoevals) - AutoEvals is a tool for quickly and easily evaluating AI model outputs using best practices.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
