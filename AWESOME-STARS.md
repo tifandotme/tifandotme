@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [GoogleCloudPlatform/cloud-sql-proxy](https://github.com/GoogleCloudPlatform/cloud-sql-proxy) - A utility for connecting securely to your Cloud SQL instances
 - [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -319,7 +320,8 @@
 
 ## Rust 
 
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and 
+- [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a smart edge and LLM proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying acce
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - LSP for Markdown notes taking
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
