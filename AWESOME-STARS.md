@@ -416,6 +416,7 @@
 
 ## TypeScript 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [akash3444/basecn](https://github.com/akash3444/basecn) - shadcn/ui components powered by Base UI
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) - 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
