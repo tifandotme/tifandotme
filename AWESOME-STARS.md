@@ -49,6 +49,7 @@
 
 ## C 
 
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -416,6 +417,7 @@
 
 ## TypeScript 
 
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [akash3444/basecn](https://github.com/akash3444/basecn) - shadcn/ui components powered by Base UI
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) - 
