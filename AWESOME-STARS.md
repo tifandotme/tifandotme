@@ -71,6 +71,7 @@
 
 ## CSS 
 
+- [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
 - [benbarth/hacktoberfest-swag](https://github.com/benbarth/hacktoberfest-swag) - Looking for hacktoberfest swag? You've come to the right place.
 - [evilfactorylabs/learning-resources](https://github.com/evilfactorylabs/learning-resources) - a curated list of "basic" knowledge that "good to know" by evilfactorylabs members. But feel free to take a look and learn together!
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
@@ -164,7 +165,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
+- [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
