@@ -419,6 +419,7 @@
 
 ## TypeScript 
 
+- [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows.
 - [bunup/bunup](https://github.com/bunup/bunup) - 📦 Bundles your TypeScript libraries faster than you can say "bundle"
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
