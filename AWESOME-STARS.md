@@ -237,7 +237,6 @@
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 - [nushell/nupm](https://github.com/nushell/nupm) - A manager for Nushell packages.
-- [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
 
 ## Objective-C 
@@ -385,6 +384,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
