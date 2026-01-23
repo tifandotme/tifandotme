@@ -171,6 +171,7 @@
 
 ## JavaScript 
 
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
@@ -339,6 +340,7 @@
 
 ## Rust 
 
+- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
