@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [basecamp/fizzy-cli](https://github.com/basecamp/fizzy-cli) - Fizzy CLI and Agent Skills
 - [shuvro/lazykamal](https://github.com/shuvro/lazykamal) - A kamal deploy TUI app for managing apps
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
