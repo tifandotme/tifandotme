@@ -490,6 +490,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth) - Gemini auth plugin for opencode
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [tatsukamijo/vimtion](https://github.com/tatsukamijo/vimtion) - Vim keybindings for Notion
 - [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
@@ -534,7 +535,7 @@
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [aleclarson/vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite
