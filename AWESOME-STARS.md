@@ -362,6 +362,7 @@
 
 ## Rust 
 
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
@@ -417,6 +418,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -555,7 +557,7 @@
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy & Paste React components to build modern web applications.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -616,7 +618,6 @@
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
