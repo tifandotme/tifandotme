@@ -196,7 +196,7 @@
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-- [sakeenah-wedding/template](https://github.com/sakeenah-wedding/template) - Sakeenah is a beautiful, modern, and interactive islamic wedding invitation website built with vite ( react ), tailwind css, and framer motion. Created with ❤️ by @mrofisr.
+- [sakeenah-wedding/template](https://github.com/sakeenah-wedding/template) - Sakeenah is a beautiful, modern, and interactive islamic wedding invitation website built with vite ( react ), tailwind css, and framer motion. Created with ❤️ by @jawaracloud
 - [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js) - Render e-books in the browser
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Run Google Lighthouse on your entire site.
@@ -517,7 +517,7 @@
 - [allure-framework/allure3](https://github.com/allure-framework/allure3) - Allure Report is a flexible multi-language test report tool to show you a detailed representation of what has been tested and extract maximum from the everyday execution of tests
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [smithery-ai/cli](https://github.com/smithery-ai/cli) - Install, manage and develop MCP servers and skills for agents
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - EvilCharts is an open-source chart UI website built with shadcn and Recharts, beautifully designed and handcrafted.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
