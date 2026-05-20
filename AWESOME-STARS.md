@@ -269,7 +269,6 @@
 
 ## Others 
 
-- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
@@ -321,6 +320,7 @@
 
 ## Python 
 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
