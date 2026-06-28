@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [drogers0/gh-image](https://github.com/drogers0/gh-image) - A gh CLI extension that uploads images to GitHub from the command line
 - [basecamp/fizzy-cli](https://github.com/basecamp/fizzy-cli) - Fizzy CLI and Agent Skills
 - [shuvro/lazykamal](https://github.com/shuvro/lazykamal) - A kamal deploy TUI app for managing apps
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
@@ -490,6 +491,7 @@
 
 ## TypeScript 
 
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
