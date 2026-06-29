@@ -43,6 +43,7 @@
 - [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Zig](#zig)
 
 ## Batchfile 
@@ -617,6 +618,10 @@
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Zig 
 
