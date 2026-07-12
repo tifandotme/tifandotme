@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-## recent activity
+recent activity:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#974](https://github.com/robinebers/openusage/issues/974#issuecomment-4952101646) in [robinebers/openusage](https://github.com/robinebers/openusage)
@@ -22,7 +22,7 @@
 4. 🚀 Published release [@tifan/pi-recap@0.4.3](https://github.com/tifandotme/pi-extensions/releases/tag/%40tifan/pi-recap%400.4.3) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
 5. 🚀 Published release [@tifan/pi-mermaid-open@0.1.3](https://github.com/tifandotme/pi-extensions/releases/tag/%40tifan/pi-mermaid-open%400.1.3) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
 <!--END_SECTION:activity-->
-
+<br/>
 <details>
   <summary>stats</summary>
   <p align="center">
