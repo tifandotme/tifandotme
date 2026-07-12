@@ -16,6 +16,11 @@
 ## recent activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#974](https://github.com/robinebers/openusage/issues/974#issuecomment-4952101646) in [robinebers/openusage](https://github.com/robinebers/openusage)
+2. 🚀 Published release [@tifan/pi-titlebar-spinner@0.1.3](https://github.com/tifandotme/pi-extensions/releases/tag/%40tifan/pi-titlebar-spinner%400.1.3) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+3. 🚀 Published release [@tifan/pi-rename@0.4.1](https://github.com/tifandotme/pi-extensions/releases/tag/%40tifan/pi-rename%400.4.1) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+4. 🚀 Published release [@tifan/pi-recap@0.4.3](https://github.com/tifandotme/pi-extensions/releases/tag/%40tifan/pi-recap%400.4.3) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+5. 🚀 Published release [@tifan/pi-mermaid-open@0.1.3](https://github.com/tifandotme/pi-extensions/releases/tag/%40tifan/pi-mermaid-open%400.1.3) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
 <!--END_SECTION:activity-->
 
 <details>
