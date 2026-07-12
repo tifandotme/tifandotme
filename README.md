@@ -13,6 +13,11 @@
 
 <br/><br/>
 
+## recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <details>
   <summary>stats</summary>
   <p align="center">
