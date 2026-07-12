@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://tifan.me">visit my website</a>
+    <strong><a href="https://tifan.me">visit my website</a></strong>
   </samp>
 </p>
 
