@@ -22,7 +22,7 @@ recent activity:
 4. 🚀 Published release [@tifan/pi-titlebar-spinner@0.1.3](https://github.com/tifandotme/pi-extensions/releases/tag/%40tifan/pi-titlebar-spinner%400.1.3) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
 5. 🚀 Published release [@tifan/pi-rename@0.4.1](https://github.com/tifandotme/pi-extensions/releases/tag/%40tifan/pi-rename%400.4.1) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
 <!--END_SECTION:activity-->
-<br/>
+<br/><br/>
 <details>
   <summary>stats</summary>
   <p align="center">
