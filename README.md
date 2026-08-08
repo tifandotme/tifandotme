@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10425](https://github.com/windmill-labs/windmill/issues/10425) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-2. 🗣 Commented on [#701](https://github.com/dmtrKovalenko/fff/pull/701#issuecomment-5117358729) in [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
-3. ❗ Opened issue [#77740](https://github.com/anthropics/claude-code/issues/77740) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-4. ℹ️ Labeled issue [#988](https://github.com/robinebers/openusage/issues/988) in [robinebers/openusage](https://github.com/robinebers/openusage)
-5. ❗ Opened issue [#988](https://github.com/robinebers/openusage/issues/988) in [robinebers/openusage](https://github.com/robinebers/openusage)
+1. 🗣 Commented on [#7816](https://github.com/earendil-works/pi/issues/7816#issuecomment-5225318024) in [earendil-works/pi](https://github.com/earendil-works/pi)
+2. ❗ Opened issue [#7816](https://github.com/earendil-works/pi/issues/7816) in [earendil-works/pi](https://github.com/earendil-works/pi)
+3. ❗ Opened issue [#10425](https://github.com/windmill-labs/windmill/issues/10425) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+4. 🗣 Commented on [#701](https://github.com/dmtrKovalenko/fff/pull/701#issuecomment-5117358729) in [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
+5. ❗ Opened issue [#77740](https://github.com/anthropics/claude-code/issues/77740) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
