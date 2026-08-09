@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7816](https://github.com/earendil-works/pi/issues/7816#issuecomment-5225318024) in [earendil-works/pi](https://github.com/earendil-works/pi)
-2. ❗ Opened issue [#7816](https://github.com/earendil-works/pi/issues/7816) in [earendil-works/pi](https://github.com/earendil-works/pi)
-3. ❗ Opened issue [#10425](https://github.com/windmill-labs/windmill/issues/10425) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-4. 🗣 Commented on [#701](https://github.com/dmtrKovalenko/fff/pull/701#issuecomment-5117358729) in [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
-5. ❗ Opened issue [#77740](https://github.com/anthropics/claude-code/issues/77740) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🗣 Commented on [#26](https://github.com/tifandotme/pi-extensions/pull/26#issuecomment-5229218018) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+2. 🗣 Commented on [#7816](https://github.com/earendil-works/pi/issues/7816#issuecomment-5225318024) in [earendil-works/pi](https://github.com/earendil-works/pi)
+3. ❗ Opened issue [#7816](https://github.com/earendil-works/pi/issues/7816) in [earendil-works/pi](https://github.com/earendil-works/pi)
+4. ❗ Opened issue [#10425](https://github.com/windmill-labs/windmill/issues/10425) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+5. 🗣 Commented on [#701](https://github.com/dmtrKovalenko/fff/pull/701#issuecomment-5117358729) in [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
