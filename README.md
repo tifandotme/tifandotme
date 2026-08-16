@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#876](https://github.com/mattpocock/skills/pull/876#issuecomment-5307282102) in [mattpocock/skills](https://github.com/mattpocock/skills)
-2. 🗣 Commented on [#86857](https://github.com/anthropics/claude-code/issues/86857#issuecomment-5304200522) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-3. 🗣 Commented on [#7871](https://github.com/earendil-works/pi/issues/7871#issuecomment-5303893612) in [earendil-works/pi](https://github.com/earendil-works/pi)
-4. 🗣 Commented on [#26](https://github.com/tifandotme/pi-extensions/pull/26#issuecomment-5229676666) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
-5. 🗣 Commented on [#26](https://github.com/tifandotme/pi-extensions/pull/26#issuecomment-5229218018) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+1. 🗣 Commented on [#135](https://github.com/michaelwilhelmsen/humla/issues/135#issuecomment-5308302551) in [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla)
+2. 🗣 Commented on [#876](https://github.com/mattpocock/skills/pull/876#issuecomment-5307282102) in [mattpocock/skills](https://github.com/mattpocock/skills)
+3. 🗣 Commented on [#86857](https://github.com/anthropics/claude-code/issues/86857#issuecomment-5304200522) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+4. 🗣 Commented on [#7871](https://github.com/earendil-works/pi/issues/7871#issuecomment-5303893612) in [earendil-works/pi](https://github.com/earendil-works/pi)
+5. 🗣 Commented on [#26](https://github.com/tifandotme/pi-extensions/pull/26#issuecomment-5229676666) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
