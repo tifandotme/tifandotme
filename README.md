@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/tifandotme/pi-extensions/pull/26#issuecomment-5229676666) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
-2. 🗣 Commented on [#26](https://github.com/tifandotme/pi-extensions/pull/26#issuecomment-5229218018) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
-3. 🗣 Commented on [#7816](https://github.com/earendil-works/pi/issues/7816#issuecomment-5225318024) in [earendil-works/pi](https://github.com/earendil-works/pi)
-4. ❗ Opened issue [#7816](https://github.com/earendil-works/pi/issues/7816) in [earendil-works/pi](https://github.com/earendil-works/pi)
-5. ❗ Opened issue [#10425](https://github.com/windmill-labs/windmill/issues/10425) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+1. 🗣 Commented on [#86857](https://github.com/anthropics/claude-code/issues/86857#issuecomment-5304200522) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🗣 Commented on [#7871](https://github.com/earendil-works/pi/issues/7871#issuecomment-5303893612) in [earendil-works/pi](https://github.com/earendil-works/pi)
+3. 🗣 Commented on [#26](https://github.com/tifandotme/pi-extensions/pull/26#issuecomment-5229676666) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+4. 🗣 Commented on [#26](https://github.com/tifandotme/pi-extensions/pull/26#issuecomment-5229218018) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+5. 🗣 Commented on [#7816](https://github.com/earendil-works/pi/issues/7816#issuecomment-5225318024) in [earendil-works/pi](https://github.com/earendil-works/pi)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
