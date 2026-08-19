@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39501](https://github.com/neovim/neovim/issues/39501#issuecomment-5314022931) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#39501](https://github.com/neovim/neovim/issues/39501#issuecomment-5312871012) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#135](https://github.com/michaelwilhelmsen/humla/issues/135#issuecomment-5308302551) in [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla)
-4. 🗣 Commented on [#876](https://github.com/mattpocock/skills/pull/876#issuecomment-5307282102) in [mattpocock/skills](https://github.com/mattpocock/skills)
-5. 🗣 Commented on [#86857](https://github.com/anthropics/claude-code/issues/86857#issuecomment-5304200522) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. ❗ Opened issue [#72](https://github.com/elidickinson/pi-claude-bridge/issues/72) in [elidickinson/pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge)
+2. 🗣 Commented on [#39501](https://github.com/neovim/neovim/issues/39501#issuecomment-5314022931) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#39501](https://github.com/neovim/neovim/issues/39501#issuecomment-5312871012) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🗣 Commented on [#135](https://github.com/michaelwilhelmsen/humla/issues/135#issuecomment-5308302551) in [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla)
+5. 🗣 Commented on [#876](https://github.com/mattpocock/skills/pull/876#issuecomment-5307282102) in [mattpocock/skills](https://github.com/mattpocock/skills)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
