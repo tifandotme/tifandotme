@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#72](https://github.com/elidickinson/pi-claude-bridge/issues/72) in [elidickinson/pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge)
-2. 🗣 Commented on [#39501](https://github.com/neovim/neovim/issues/39501#issuecomment-5314022931) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#39501](https://github.com/neovim/neovim/issues/39501#issuecomment-5312871012) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#135](https://github.com/michaelwilhelmsen/humla/issues/135#issuecomment-5308302551) in [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla)
-5. 🗣 Commented on [#876](https://github.com/mattpocock/skills/pull/876#issuecomment-5307282102) in [mattpocock/skills](https://github.com/mattpocock/skills)
+1. 🔒 Closed issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
+2. ❗ Opened issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
+3. ❗ Opened issue [#4350](https://github.com/electron/forge/issues/4350) in [electron/forge](https://github.com/electron/forge)
+4. ❗ Opened issue [#4637](https://github.com/PostHog/posthog-js/issues/4637) in [PostHog/posthog-js](https://github.com/PostHog/posthog-js)
+5. ❗ Opened issue [#72](https://github.com/elidickinson/pi-claude-bridge/issues/72) in [elidickinson/pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
