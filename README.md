@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
-2. ❗ Opened issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
-3. ❗ Opened issue [#4350](https://github.com/electron/forge/issues/4350) in [electron/forge](https://github.com/electron/forge)
-4. ❗ Opened issue [#4637](https://github.com/PostHog/posthog-js/issues/4637) in [PostHog/posthog-js](https://github.com/PostHog/posthog-js)
-5. ❗ Opened issue [#72](https://github.com/elidickinson/pi-claude-bridge/issues/72) in [elidickinson/pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge)
+1. 🗣 Commented on [#33](https://github.com/tifandotme/pi-extensions/pull/33#issuecomment-5435306904) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+2. 🔒 Closed issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
+3. ❗ Opened issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
+4. ❗ Opened issue [#4350](https://github.com/electron/forge/issues/4350) in [electron/forge](https://github.com/electron/forge)
+5. ❗ Opened issue [#4637](https://github.com/PostHog/posthog-js/issues/4637) in [PostHog/posthog-js](https://github.com/PostHog/posthog-js)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
