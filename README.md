@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/tifandotme/pi-extensions/pull/33#issuecomment-5435306904) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
-2. 🔒 Closed issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
-3. ❗ Opened issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
-4. ❗ Opened issue [#4350](https://github.com/electron/forge/issues/4350) in [electron/forge](https://github.com/electron/forge)
-5. ❗ Opened issue [#4637](https://github.com/PostHog/posthog-js/issues/4637) in [PostHog/posthog-js](https://github.com/PostHog/posthog-js)
+1. 🗣 Commented on [#876](https://github.com/mattpocock/skills/pull/876#issuecomment-5437637418) in [mattpocock/skills](https://github.com/mattpocock/skills)
+2. 🗣 Commented on [#33](https://github.com/tifandotme/pi-extensions/pull/33#issuecomment-5435306904) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+3. 🔒 Closed issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
+4. ❗ Opened issue [#4351](https://github.com/electron/forge/issues/4351) in [electron/forge](https://github.com/electron/forge)
+5. ❗ Opened issue [#4350](https://github.com/electron/forge/issues/4350) in [electron/forge](https://github.com/electron/forge)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
