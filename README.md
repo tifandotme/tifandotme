@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3801](https://github.com/motiondivision/motion/issues/3801) in [motiondivision/motion](https://github.com/motiondivision/motion)
-2. 💪 Opened PR [#7710](https://github.com/recharts/recharts/pull/7710) in [recharts/recharts](https://github.com/recharts/recharts)
-3. ❗ Opened issue [#7709](https://github.com/recharts/recharts/issues/7709) in [recharts/recharts](https://github.com/recharts/recharts)
-4. 💪 Opened PR [#4354](https://github.com/electron/forge/pull/4354) in [electron/forge](https://github.com/electron/forge)
-5. 🗣 Commented on [#8112](https://github.com/earendil-works/pi/pull/8112#issuecomment-5463301255) in [earendil-works/pi](https://github.com/earendil-works/pi)
+1. 🎉 Merged PR [#101](https://github.com/recharts/recharts-integ/pull/101) in [recharts/recharts-integ](https://github.com/recharts/recharts-integ)
+2. 🗣 Commented on [#7710](https://github.com/recharts/recharts/pull/7710#issuecomment-5470259972) in [recharts/recharts](https://github.com/recharts/recharts)
+3. 💪 Opened PR [#101](https://github.com/recharts/recharts-integ/pull/101) in [recharts/recharts-integ](https://github.com/recharts/recharts-integ)
+4. ❗ Opened issue [#3801](https://github.com/motiondivision/motion/issues/3801) in [motiondivision/motion](https://github.com/motiondivision/motion)
+5. 💪 Opened PR [#7710](https://github.com/recharts/recharts/pull/7710) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
