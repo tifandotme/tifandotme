@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/recharts/recharts-integ/pull/101) in [recharts/recharts-integ](https://github.com/recharts/recharts-integ)
-2. 🗣 Commented on [#7710](https://github.com/recharts/recharts/pull/7710#issuecomment-5470259972) in [recharts/recharts](https://github.com/recharts/recharts)
-3. 💪 Opened PR [#101](https://github.com/recharts/recharts-integ/pull/101) in [recharts/recharts-integ](https://github.com/recharts/recharts-integ)
-4. ❗ Opened issue [#3801](https://github.com/motiondivision/motion/issues/3801) in [motiondivision/motion](https://github.com/motiondivision/motion)
-5. 💪 Opened PR [#7710](https://github.com/recharts/recharts/pull/7710) in [recharts/recharts](https://github.com/recharts/recharts)
+1. 🎉 Merged PR [#7710](https://github.com/recharts/recharts/pull/7710) in [recharts/recharts](https://github.com/recharts/recharts)
+2. 🎉 Merged PR [#101](https://github.com/recharts/recharts-integ/pull/101) in [recharts/recharts-integ](https://github.com/recharts/recharts-integ)
+3. 🗣 Commented on [#7710](https://github.com/recharts/recharts/pull/7710#issuecomment-5470259972) in [recharts/recharts](https://github.com/recharts/recharts)
+4. 💪 Opened PR [#101](https://github.com/recharts/recharts-integ/pull/101) in [recharts/recharts-integ](https://github.com/recharts/recharts-integ)
+5. ❗ Opened issue [#3801](https://github.com/motiondivision/motion/issues/3801) in [motiondivision/motion](https://github.com/motiondivision/motion)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
