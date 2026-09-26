@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/tifandotme/dotfiles/pull/2) in [tifandotme/dotfiles](https://github.com/tifandotme/dotfiles)
-2. ❗ Opened issue [#746](https://github.com/Effect-TS/tsgo/issues/746) in [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo)
-3. 💪 Opened PR [#26](https://github.com/FammasMaz/pi-cc-tools/pull/26) in [FammasMaz/pi-cc-tools](https://github.com/FammasMaz/pi-cc-tools)
-4. ❗ Opened issue [#25](https://github.com/FammasMaz/pi-cc-tools/issues/25) in [FammasMaz/pi-cc-tools](https://github.com/FammasMaz/pi-cc-tools)
-5. 🎉 Merged PR [#7710](https://github.com/recharts/recharts/pull/7710) in [recharts/recharts](https://github.com/recharts/recharts)
+1. 🎉 Merged PR [#2](https://github.com/tifandotme/dotfiles/pull/2) in [tifandotme/dotfiles](https://github.com/tifandotme/dotfiles)
+2. 💪 Opened PR [#2](https://github.com/tifandotme/dotfiles/pull/2) in [tifandotme/dotfiles](https://github.com/tifandotme/dotfiles)
+3. ❗ Opened issue [#746](https://github.com/Effect-TS/tsgo/issues/746) in [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo)
+4. 💪 Opened PR [#26](https://github.com/FammasMaz/pi-cc-tools/pull/26) in [FammasMaz/pi-cc-tools](https://github.com/FammasMaz/pi-cc-tools)
+5. ❗ Opened issue [#25](https://github.com/FammasMaz/pi-cc-tools/issues/25) in [FammasMaz/pi-cc-tools](https://github.com/FammasMaz/pi-cc-tools)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
