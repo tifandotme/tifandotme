@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11867](https://github.com/windmill-labs/windmill/issues/11867) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-2. 🗣 Commented on [#191](https://github.com/FelixKratz/JankyBorders/pull/191#issuecomment-6234259895) in [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
-3. 🗣 Commented on [#48](https://github.com/tifandotme/pi-extensions/issues/48#issuecomment-6196201336) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
-4. 🔒 Closed issue [#48](https://github.com/tifandotme/pi-extensions/issues/48) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
-5. 🗣 Commented on [#711](https://github.com/temporalio/ui/issues/711#issuecomment-6161152991) in [temporalio/ui](https://github.com/temporalio/ui)
+1. 💪 Opened PR [#37](https://github.com/tifandotme/tifan.me/pull/37) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
+2. 💪 Opened PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
+3. ❗ Opened issue [#11867](https://github.com/windmill-labs/windmill/issues/11867) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+4. 🗣 Commented on [#191](https://github.com/FelixKratz/JankyBorders/pull/191#issuecomment-6234259895) in [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
+5. 🗣 Commented on [#48](https://github.com/tifandotme/pi-extensions/issues/48#issuecomment-6196201336) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
