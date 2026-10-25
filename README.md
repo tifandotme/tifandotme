@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/tifandotme/tifan.me/pull/37) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
-2. 💪 Opened PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
-3. ❗ Opened issue [#11867](https://github.com/windmill-labs/windmill/issues/11867) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-4. 🗣 Commented on [#191](https://github.com/FelixKratz/JankyBorders/pull/191#issuecomment-6234259895) in [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
-5. 🗣 Commented on [#48](https://github.com/tifandotme/pi-extensions/issues/48#issuecomment-6196201336) in [tifandotme/pi-extensions](https://github.com/tifandotme/pi-extensions)
+1. 🗣 Commented on [#1214](https://github.com/robinebers/openusage/issues/1214#issuecomment-6396795570) in [robinebers/openusage](https://github.com/robinebers/openusage)
+2. 💪 Opened PR [#37](https://github.com/tifandotme/tifan.me/pull/37) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
+3. 💪 Opened PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
+4. ❗ Opened issue [#11867](https://github.com/windmill-labs/windmill/issues/11867) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+5. 🗣 Commented on [#191](https://github.com/FelixKratz/JankyBorders/pull/191#issuecomment-6234259895) in [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
