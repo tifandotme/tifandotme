@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
-2. 🗣 Commented on [#1214](https://github.com/robinebers/openusage/issues/1214#issuecomment-6396795570) in [robinebers/openusage](https://github.com/robinebers/openusage)
-3. 💪 Opened PR [#37](https://github.com/tifandotme/tifan.me/pull/37) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
-4. 💪 Opened PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
-5. ❗ Opened issue [#11867](https://github.com/windmill-labs/windmill/issues/11867) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+1. 🗣 Commented on [#1441](https://github.com/robinebers/openusage/issues/1441#issuecomment-6422827279) in [robinebers/openusage](https://github.com/robinebers/openusage)
+2. ❌ Closed PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
+3. 🗣 Commented on [#1214](https://github.com/robinebers/openusage/issues/1214#issuecomment-6396795570) in [robinebers/openusage](https://github.com/robinebers/openusage)
+4. 💪 Opened PR [#37](https://github.com/tifandotme/tifan.me/pull/37) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
+5. 💪 Opened PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
