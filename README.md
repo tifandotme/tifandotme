@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12048](https://github.com/windmill-labs/windmill/issues/12048) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-2. ❗ Opened issue [#12047](https://github.com/windmill-labs/windmill/issues/12047) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-3. 🗣 Commented on [#1441](https://github.com/robinebers/openusage/issues/1441#issuecomment-6422827279) in [robinebers/openusage](https://github.com/robinebers/openusage)
-4. ❌ Closed PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
-5. 🗣 Commented on [#1214](https://github.com/robinebers/openusage/issues/1214#issuecomment-6396795570) in [robinebers/openusage](https://github.com/robinebers/openusage)
+1. ❗ Opened issue [#1303](https://github.com/refactoringhq/tolaria/issues/1303) in [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+2. ❗ Opened issue [#12048](https://github.com/windmill-labs/windmill/issues/12048) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+3. ❗ Opened issue [#12047](https://github.com/windmill-labs/windmill/issues/12047) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+4. 🗣 Commented on [#1441](https://github.com/robinebers/openusage/issues/1441#issuecomment-6422827279) in [robinebers/openusage](https://github.com/robinebers/openusage)
+5. ❌ Closed PR [#36](https://github.com/tifandotme/tifan.me/pull/36) in [tifandotme/tifan.me](https://github.com/tifandotme/tifan.me)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
