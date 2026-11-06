@@ -16,11 +16,11 @@
 recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/tifandotme/dotfiles/pull/3) in [tifandotme/dotfiles](https://github.com/tifandotme/dotfiles)
-2. 💪 Opened PR [#3](https://github.com/tifandotme/dotfiles/pull/3) in [tifandotme/dotfiles](https://github.com/tifandotme/dotfiles)
-3. ❗ Opened issue [#1303](https://github.com/refactoringhq/tolaria/issues/1303) in [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
-4. ❗ Opened issue [#12048](https://github.com/windmill-labs/windmill/issues/12048) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-5. ❗ Opened issue [#12047](https://github.com/windmill-labs/windmill/issues/12047) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+1. ❗ Opened issue [#1819](https://github.com/abue-ammar/tinycast/issues/1819) in [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+2. 🎉 Merged PR [#3](https://github.com/tifandotme/dotfiles/pull/3) in [tifandotme/dotfiles](https://github.com/tifandotme/dotfiles)
+3. 💪 Opened PR [#3](https://github.com/tifandotme/dotfiles/pull/3) in [tifandotme/dotfiles](https://github.com/tifandotme/dotfiles)
+4. ❗ Opened issue [#1303](https://github.com/refactoringhq/tolaria/issues/1303) in [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+5. ❗ Opened issue [#12048](https://github.com/windmill-labs/windmill/issues/12048) in [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
 <!--END_SECTION:activity-->
 <br/><br/>
 <details>
